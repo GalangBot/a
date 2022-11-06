@@ -19,7 +19,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['628279705482','628279705482','628279705482']
+global.owner = ['6285643112659','628279705482','628279705482']
 global.premium = ['628279705482']
 global.packname = 'LANG NO ELIT'
 global.author = ''
